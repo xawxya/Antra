@@ -1,0 +1,8 @@
+C:\Users\Louis\source\repos\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\02UnderstandingTypes.exe.config
+C:\Users\Louis\source\repos\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\02UnderstandingTypes.exe
+C:\Users\Louis\source\repos\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\02UnderstandingTypes.pdb
+C:\Users\Louis\source\repos\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.csproj.AssemblyReference.cache
+C:\Users\Louis\source\repos\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Louis\source\repos\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\Users\Louis\source\repos\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.exe
+C:\Users\Louis\source\repos\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.pdb
