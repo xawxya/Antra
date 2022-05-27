@@ -1,0 +1,15 @@
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\antraOOP.csproj.AssemblyReference.cache
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\antraOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\antraOOP.AssemblyInfoInputs.cache
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\antraOOP.AssemblyInfo.cs
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\antraOOP.csproj.CoreCompileInputs.cache
+C:\Users\Louis\source\repos\antraOOP\antraOOP\bin\Debug\net6.0\antraOOP.exe
+C:\Users\Louis\source\repos\antraOOP\antraOOP\bin\Debug\net6.0\antraOOP.deps.json
+C:\Users\Louis\source\repos\antraOOP\antraOOP\bin\Debug\net6.0\antraOOP.runtimeconfig.json
+C:\Users\Louis\source\repos\antraOOP\antraOOP\bin\Debug\net6.0\antraOOP.dll
+C:\Users\Louis\source\repos\antraOOP\antraOOP\bin\Debug\net6.0\antraOOP.pdb
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\antraOOP.dll
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\refint\antraOOP.dll
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\antraOOP.pdb
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\antraOOP.genruntimeconfig.cache
+C:\Users\Louis\source\repos\antraOOP\antraOOP\obj\Debug\net6.0\ref\antraOOP.dll

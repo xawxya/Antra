@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "antraOOP", "antraOOP\antraOOP.csproj", "{844E8745-F478-44BA-85D6-0E8845FDB928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844E8745-F478-44BA-85D6-0E8845FDB928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844E8745-F478-44BA-85D6-0E8845FDB928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844E8745-F478-44BA-85D6-0E8845FDB928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844E8745-F478-44BA-85D6-0E8845FDB928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44698B5E-0A07-412C-B00C-9479FD719A6D}
+	EndGlobalSection
+EndGlobal
