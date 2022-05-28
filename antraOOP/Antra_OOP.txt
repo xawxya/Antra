@@ -1,0 +1,23 @@
+1.Public,Private, Protected, Internal, Protected Internal, Private Protected.
+2. Const can not be changed after delcared. Readonly can be changed during runtime. Static value can only be changed by static constructor.
+3. Constructor creates objects.
+4. Partial is ued to speard the definition of a class between different developers in different files.
+5. A tuple is a data structure that contains different data type elements.\
+6. It replaces the "class" keyword and defin a reference type object.
+7. Overloading means same method name with different parameters. Override means replace one method with another method with the same name and parameters.
+8. Fields are set private, and proporties access to fields.
+9. We can give an default value to each parameter.
+10. Abstract class methods can be implemented, but methods in interface can not.
+11. Private or Public.
+12. True
+13. True
+14. False
+15. False
+16. True
+17. True
+18. True
+19. False
+20. False
+21. True
+22. False
+23. False
