@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.background{
+    background-image: url('images/park.jpg');
+    color:white;
+    height:300px;
+}
+
+.background p{
+    padding-left:60%;
+    text-align: center;
+    line-height: 500px;
+    font-size:35px;
+}
+
+.menu{
+    width:100%;
+    background-color:lightgrey;
+    /* align-items: center; */
+}
+
+.menu li{
+    float:left;
+    padding: 0px 20px;
+    height:100%;
+    line-height:275%;
+}
+
+.button {
+    background-color:lightgrey;
+    border:1px solid white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    height:100%;
+    margin-left: -5px;
+}
+
+.body{
+    padding:20px 0px;
+    height:750px;
+}
+
+.p1{
+    border: thin groove lightgray;
+    margin-left:5%;
+    /* margin-right:40%; */
+    width:60%;
+    padding:10px 20px;
+    float:left;
+}
+.p1 h2{
+    color:green;
+    margin-bottom:20px;
+}
+.p1 p{
+    color:black;
+
+}
+
+
+.p2{
+    width:20%;
+    background-color:lightgrey;
+    float:right;
+    padding:10px 20px;
+    margin-right:5%;
+
+}
+.p2 h2{
+    color:green;
+    margin-bottom:20px;
+}
+
+.p2 p{
+    color:black;
+    float:left;
+}
+
+
+.p3{
+    border: thin groove lightgray;
+    margin-left:5%;
+    /* margin-right:40%; */
+    width:60%;
+    padding:10px 20px;
+    float:left;
+    margin-top: 20px;
+}
+.p3 h2{
+    color:green;
+    margin-bottom:20px;
+}
+
+.inner_paragraph{
+    width:100%;
+    height:175px;
+}
+.inner_paragraph img{
+    float:left;
+    width:150px;
+    height:150px;
+    margin-right:20px;
+}
+.inner_paragraph h6{
+    font-size:15px;
+    color:black;
+    margin-bottom:20px;
+}
+.inner_paragraph p{
+    color:black;
+}
+.p4{
+    border: thin groove lightgray;
+    width:20%;
+    float:right;
+    padding:10px 20px;
+    margin-right:5%;
+    margin-top:20px;
+
+}
+.p4 h2{
+    color:green;
+    margin-bottom:20px;
+}
+
+.p4 p{
+    color:black;
+    float:left;
+}
+
+
+
+
+
+.footer{
+    background-color: lightgreen;
+    height:100px;
+    width:100%;
+    display:table;
+}
+.footer p{
+    width:100%;
+    display:table-cell;
+    padding-left:150px;
+    vertical-align: middle;
+    color:black;
+}

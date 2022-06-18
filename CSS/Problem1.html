@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<style>
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.main_menu{
+    float: right;
+    vertical-align: bottom;
+}
+
+.main_menu a{
+    float:left;
+    height:100%;
+    display: table;
+    padding: 0px 20px;
+    vertical-align: bottom;
+}
+
+.main_menu a li{
+    display: table-cell;
+    vertical-align:bottom;
+    color:white;
+}
+
+.search_box {
+    float:right;
+    display: table;
+    height:100%;
+    padding:0px 50px;
+
+}
+
+.search_box p{
+    display:table-cell;
+    vertical-align: middle;
+    height:100%;
+    padding:0px 10px;
+    color:white;
+}
+
+tr{
+    background-color: rgba(28, 66, 112, 1);
+}
+.dropdown{
+    float:left;
+}
+
+</style>
+
+<body>
+    <table cellspacing = "0" border = 0>
+        <tr> <th rowspan = 2 style="width:20%">
+            <a href = "https://antra.net">
+                <img src = "images/Antra.png" alt = "Antra Logo" width = 100% height = 100%>
+            </a>
+        </th>
+
+        <td>
+            <div class = "search_box">
+                <div class = "dropdown">
+                    <button class = "dropbtn">USER</button>
+                </div>
+                <input type="text" name = "" placeholder = "Search....">
+            </div>
+        </td>
+        </tr>
+            
+        <tr>
+            <td>
+                <ul class = "main_menu">
+                    <a href = "https://antra.net/news"><li>News</li></a>
+                    <a href = "https://antra.net/UNIVERSITY">
+                        <li>ABOUT THE UNIVERSITY</li>
+                    </a>
+                    <a href = "https://antra.net/COURSES">
+                        <li>TRAINING COURSES</li>
+                    </a>
+                    <a href = "https://antra.net/Services">
+                        <li>FOR COMPANIES</li>
+                    </a>
+                    <a href = "https://antra.net/FORUM">
+                        <li>FORUM</li>
+                    </a>
+                    <a href = "https://antra.net/CONTACTS">
+                        <li>CONTACTS</li>
+                    </a>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
